@@ -1,4 +1,3 @@
-# hexevac
 
 # HEXEVAC
 ### Open-Source Rescue Robotics Research Platform
